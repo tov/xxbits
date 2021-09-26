@@ -1,0 +1,5 @@
+#pragma once
+
+#define XXBITS_VERSION_MAJOR @xxbits_VERSION_MAJOR@
+#define XXBITS_VERSION_MINOR @xxbits_VERSION_MINOR@
+#define XXBITS_VERSION_PATCH @xxbits_VERSION_PATCH@
